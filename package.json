@@ -1,0 +1,19 @@
+{
+  "name": "shortener",
+  "version": "1.0.0",
+  "description": "Encurtador de URL",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "generate:doc": "jsdoc -r src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/EngCarlosNogueira/UrlShortener"
+  },
+  "author": "Carlos Nogueira",
+  "license": "ISC",
+  "dependencies": {
+    "git": "^0.1.5"
+  }
+}
